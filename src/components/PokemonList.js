@@ -95,7 +95,7 @@ const PokemonList = ({ navigation }) => {
                     ListFooterComponent={() => renderFooter()}
                 />
                 <Pressable style={styles.favoriteButton} onPress={() => navigation.navigate('FavoriteList')}>
-                    <Text style={styles.text}>Ir para os favoritoaaas</Text>
+                    <Text style={styles.text}>Ir para os favoritos</Text>
                 </Pressable>
             </View>
         </SafeAreaView>
