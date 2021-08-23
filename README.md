@@ -2,10 +2,9 @@
 
 ### Como executar esse projeto:
 1. Clone o projeto na sua máquina
-2. `cd pokemon_mobile-master`
-3. `npm install`
-4. `npx react-native run-android`
-5. Espere dar 100% e pronto!
+2. `npm install`
+3. `npx react-native run-android`
+4. Espere dar 100% e pronto!
 
 
 
