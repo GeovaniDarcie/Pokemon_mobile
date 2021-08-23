@@ -10,7 +10,7 @@
 
 #### Pokemons são carregadados infinitamente, só rolando para baixo.
 
-![](https://i.imgur.com/kOglj3Q.png)
+![](https://i.imgur.com/rHE93ae.png)
 
 #### Quando selecionado, ele muda a cor dependendo do tipo de pokemon (poison é verde, fire é vermelho):
 
